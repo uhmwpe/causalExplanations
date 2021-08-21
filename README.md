@@ -1,4 +1,4 @@
-# Causal Modeling Complex Systems Using Omega
+# Causal Explanation Generation
 
 ## Authors
 
